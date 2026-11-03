@@ -1,13 +1,17 @@
 {
   "name": "task_todo_app",
   "version": "1.0.0",
-  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadrakib2299/backend-task-app.git"
+  },
+  "description": "Task notes app — Node.js + Express + EJS server to create, view and edit tasks saved as text files.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Md. Rakib (https://devrakib.com)",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
